@@ -1,2 +1,2 @@
-# projeto-glass-html5
-Exercício desenvolvido no curso de HTML 5 do Curso em Vídeo
+# Projeto-glass-html5
+Site com HTML 5
